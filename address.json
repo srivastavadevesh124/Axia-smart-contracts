@@ -1,0 +1,18 @@
+[
+  {
+    "masterchef": "0xa8489Dd6E81CcFB2Ca3E9edC83BE2B737E6CA240",
+    "1busd-axc": "0x3cc916A2894d26bd2c7847d485072ABf66661679",
+    "2bnb-axc": "0x6C660a98912C91426976eAF786A8b8B1cFd32e10",
+    "3bnb-busd": "0x460Dcd5Cf6bD793E46b2c9B5d0A25a65e4343d1c",
+    "4axc token": "0x8d5441C39ebF6033536d9913D6E0D54FC8646E16"
+  },
+  {
+    "axc(ropsten)": "0x9A7af164c6aB18dbb7CC0dd1bf1e7b57aE31bcA1",
+    "axc(bsc)": "0x8d5441C39ebF6033536d9913D6E0D54FC8646E16"
+  },
+  {
+    "0x96eFcd41682c8b4e0B7ACdde78Da259e0c3aB05B": "router",
+    "0x9031334ad92a92222cdfd04eabaae9a8240e76db060dc7ba37a9629d5b03bda7": "init",
+    "0x3f4083A3aAfded3ff74DCd481d4b0c478A3b6230": "factory"
+  }
+]
